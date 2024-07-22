@@ -1,7 +1,7 @@
   # Fritz (Fredrick) Seitz
 Principal Software Developer and Architect
 
-📧 fritz@lateflip.io | 🌐 [GitHub](http://www.github.com/ontehfritz) | 🌐 [LinkedIn](http://www.linkedin.com/in/fritz-fredrick-seitz-8a15194)
+📧 fritz@lateflip.io | 🌐 [LinkedIn](http://www.linkedin.com/in/fritz-fredrick-seitz-8a15194)
 
 Location: Bath, Ontario, Canada
 
