@@ -49,9 +49,9 @@ Experienced Software Developer/Architect (20+ years) pushing the bar on inspirat
 ---
 
 ## 💪 Skills
-- **Languages**: C#, TypeScript, JavaScript, Java, Rust
-- **Technologies**: Node.js, Relational/Document DB, Kubernetes, Kafka, DevOps, GitOps, CI/CD, Automated Testing, Message Queues, Microservices, Monoliths, Web/Desktop Applications, GCP, ArgoCD
-- **Other**: Linux, OSX, Object-Oriented Programming, Some Functional Programming, Security, Skateboarding
+- **Languages**: C#, TypeScript, JavaScript, Java, Some Rust
+- **Technologies**: Node.js, Relational/Document DB, Kubernetes, Kafka, Automated Testing, Message Queues, Web/Desktop Applications, GCP, ArgoCD, Linux, OSX
+- **Other**: Object-Oriented Programming and Design, SOLID, CI/CD/CD, Some Functional Programming, Security, DevOps, GitOps, Monoliths, Microservices, Event-sourcing, Skateboarding
 
 ---
 
