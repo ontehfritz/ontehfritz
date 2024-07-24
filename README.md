@@ -8,7 +8,8 @@ Location: Bath, Ontario, Canada
 ---
 
 ## 🧑💻 Me
-Experienced Software Developer/Architect (20+ years) pushing the bar on inspiration, quality, and innovation. Skilled in many programming languages/frameworks, a design pattern advocate, and know the importance of implementing sane principles.  Enjoy being a technology generalist making it easy to pivot to a specialist. Appreciate being part of strong bonded team and get excited for leading and mentoring my teammates’, then celebrating our achievements. Technology stack minimalist.
+Experienced Software Developer/Architect (20+ years) pushing the bar on inspiration, quality, and innovation. Skilled in many programming languages/frameworks, a design pattern advocate, and know the importance of implementing sane principles.  Enjoy being a technology generalist making it easy to pivot to a specialist. Appreciate being part of strong bonded team and get excited for leading, mentoring my teammates, and being proud of our achievements. Technology stack minimalist.
+
 
 ---
 
@@ -20,14 +21,14 @@ Experienced Software Developer/Architect (20+ years) pushing the bar on inspirat
 
 **Lead Platform Engineer, Ratehub.ca**  
 *Dec 2017 - Jul 2023*
-- Architected and developed a highly available microservices platform.
+- Led, architected, and developed a highly available microservices platform.
 - Developed a robust flexible auth subsystem from scratch to authenticate users and secure microservices (JWT).
 - Created an automated CI/CD platform integrated with Slack so that deploys could be done with the push of a button.
 - Created a declarative eventing platform that required minimal code to receive and push events.
 
 **Lead Software Developer, Bombardier**  
 *Aug 2014 - Dec 2017*
-- Designed and developed a realtime train management system that became a standard.
+- Led, designed, and developed a realtime train management system that became a product standard.
 - Developed a realtime simulator/replay system to easily manage technologies off the train.
 
 **Personal Project**  
@@ -36,7 +37,7 @@ Experienced Software Developer/Architect (20+ years) pushing the bar on inspirat
 
 **Team Leader and Lead Application Developer, Prime Restaurants**  
 *Sep 2007 - Jul 2012*
-- Created and designed a unified platform for hospitality franchisees and head office with applications that no other restaurant franchising company in Canada had at the time.
+- Led, created, and designed a unified platform for hospitality franchisees and head office with applications that no other restaurant franchising company in Canada had at the time.
 
 **Research Application Developer, Queen’s University**  
 *Aug 2006 - Oct 2006*
@@ -44,13 +45,13 @@ Experienced Software Developer/Architect (20+ years) pushing the bar on inspirat
 
 **Technology Specialist and Application Developer, BMO**  
 *Jan 2001 - Aug 2007*
-- Designed and developed a reporting/analytics internal SaaS that for the first time allowed self-service for online banking employees at the Bank of Montreal.
+- Designed and developed a reporting/analytics internal SaaS that for the first time allowed self-service for online banking employees at the Bank of Montreal; created many in house tools and expanded intranet search technology.
 
 ---
 
 ## 💪 Skills
 - **Languages**: C#, TypeScript, JavaScript, Java, Some Rust
-- **Technologies**: Node.js, Relational/Document DB, Kubernetes, Kafka, Automated Testing, Message Queues, Web/Desktop Applications, GCP, ArgoCD, Linux, OSX
+- **Technologies**: Node.js, Relational/Document DB, Kubernetes, Kafka, Automated Testing, Message Queues, Web/Desktop Applications, GCP, ArgoCD, Linux, OSX, Service Mesh, Infrastucture as Code
 - **Other**: Object-Oriented Programming and Design, SOLID, CI/CD/CD, Some Functional Programming, Security, DevOps, GitOps, Monoliths, Microservices, Event-sourcing, Skateboarding
 
 ---
