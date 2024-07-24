@@ -8,7 +8,7 @@ Location: Bath, Ontario, Canada
 ---
 
 ## 🧑💻 Me
-Experienced Software Developer/Architect (20+ years) pushing the bar on inspiration, quality, and innovation. Skilled in many programming languages/frameworks, a design pattern advocate, and know the importance of implementing sane principles. Enjoy being a technology generalist making it easy to pivot to a specialist. Appreciate being part of strong bonded team and get excited for my teammates’ achievements. Technology stack minimalist.
+Experienced Software Developer/Architect (20+ years) pushing the bar on inspiration, quality, and innovation. Skilled in many programming languages/frameworks, a design pattern advocate, and know the importance of implementing sane principles.  Enjoy being a technology generalist making it easy to pivot to a specialist. Appreciate being part of strong bonded team and get excited for leading and mentoring my teammates’, then celebrating our achievements. Technology stack minimalist.
 
 ---
 
