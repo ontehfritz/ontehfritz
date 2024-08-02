@@ -10,8 +10,6 @@ Location: Bath, Ontario, Canada
 ## 🧑💻 Me
 Experienced Software Developer/Architect (20+ years) pushing the bar on inspiration, quality, and innovation. Skilled in many programming languages/frameworks, a design pattern advocate, and know the importance of implementing sane principles.  Enjoy being a technology generalist making it easy to pivot to a specialist. Appreciate being part of strong bonded team and get excited for leading, mentoring my teammates, and being proud of our achievements. Technology stack minimalist.
 
----
-
 ## 👏 Experience
 
 - Consultant Architect and Principal Developer, NS Sports Media Pros: Oct 2023 - Jun 2024 (Freelance)
@@ -20,7 +18,6 @@ Experienced Software Developer/Architect (20+ years) pushing the bar on inspirat
 - Team Leader and Lead Application Developer, Prime Restaurants: Sep 2007 - Jul 2012
 - Research Application Developer, Queen’s University: Aug 2006 - Oct 2006 (Freelance)
 - Technology Specialist and Application Developer, BMO Bank of Montreal: Jan 2001 - Aug 2007
----
 
 ## 💪 Skills
 - **Languages:** C#, TypeScript, JavaScript, Java, SQL, HTML, YAML, JSON, XML, Bash scripts, some Rust
