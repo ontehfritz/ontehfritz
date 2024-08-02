@@ -15,17 +15,17 @@ Experienced Software Developer/Architect (20+ years) pushing the bar on inspirat
 
 ## 👏 Experience
 
-### Consultant Architect and Principal Developer, NS Sports Media Pros: Oct 2023 - Jun 2024 (Freelance)
+-  Consultant Architect and Principal Developer, NS Sports Media Pros: Oct 2023 - Jun 2024 (Freelance)
 
-### Lead Platform Engineer, Ratehub Inc.: Dec 2017 - Jul 2023
+- Lead Platform Engineer, Ratehub Inc.: Dec 2017 - Jul 2023
 
-### Lead Software Developer, Bombardier: Aug 2014 - Dec 2017
+- Lead Software Developer, Bombardier: Aug 2014 - Dec 2017
 
-### Team Leader and Lead Application Developer, Prime Restaurants: Sep 2007 - Jul 2012
+- Team Leader and Lead Application Developer, Prime Restaurants: Sep 2007 - Jul 2012
 
-### Research Application Developer, Queen’s University: Aug 2006 - Oct 2006 (Freelance)
+- Research Application Developer, Queen’s University: Aug 2006 - Oct 2006 (Freelance)
 
-### Technology Specialist and Application Developer, BMO Bank of Montreal: Jan 2001 - Aug 2007
+- Technology Specialist and Application Developer, BMO Bank of Montreal: Jan 2001 - Aug 2007
 
 
 ---
