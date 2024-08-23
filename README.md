@@ -3,8 +3,6 @@ Principal Software Developer, Team Lead, and Architect
 
 📧 fritz@lateflip.io | 🌐 [LinkedIn](http://www.linkedin.com/in/fritz-fredrick-seitz-8a15194)
 
-Location: Bath, Ontario, Canada
-
 ---
 
 ## 🧑💻 Me
