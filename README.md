@@ -8,7 +8,8 @@ Principal Software Developer, Team Lead, and Architect
 ## 🧑💻 Me
 - love to code
 - love to talk about development
-- love architecting software and systems 
+- love architecting software and systems
+- love building kick ass teams 
 
 ## 💪 Passion and Skills
 - **Languages:** C#, TypeScript, JavaScript, Java, SQL, HTML, YAML, JSON, XML, Bash scripts, some Rust
