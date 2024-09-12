@@ -1,4 +1,4 @@
-Principal Software Engineer/Developer, Team Lead, and Architect
+Lead Software Engineer/Developer, Team Lead, and Architect
 
 📧 fritz@lateflip.io | 🌐 [LinkedIn](http://www.linkedin.com/in/fritz-fredrick-seitz-8a15194)
 
