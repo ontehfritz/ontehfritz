@@ -4,7 +4,7 @@ Lead Software Engineer/Developer, Team Lead, and Architect
 
 ---
 ### Workspace for more complete projects: 
-https://github.com/latebitflip-io
+https://github.com/latebit-io
 
 ## 🧑💻 Me
 - love to code
